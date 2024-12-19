@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **akshatmaurya9451504@gmail.com**
 
-- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1xYg-FqkJjPzh22pn9fIYuxrFEhs8wa1a/view?usp=sharing)]([Resume](https://drive.google.com/file/d/1xYg-FqkJjPzh22pn9fIYuxrFEhs8wa1a/view?usp=sharing))
+- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1xYg-FqkJjPzh22pn9fIYuxrFEhs8wa1a/view?usp=sharing))
 
 - ⚡ Fun fact **I'm here to share my learning and expirences with all of you. I hope you all will help me with my code.**
 
