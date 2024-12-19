@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshat Maurya</h1>
 <h3 align="center">A full-stack developer passionate about learning new things and growing through them.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat09867&label=Profile%20views&color=0e75b6&style=flat" alt="akshat09867" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat09867" alt="akshat09867" /></a> </p>
 
@@ -9,7 +8,7 @@
 
 - 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1xYg-FqkJjPzh22pn9fIYuxrFEhs8wa1a/view?usp=sharing))
 
-- ⚡ Fun fact **I'm here to share my learning and expirences with all of you. I hope you all will help me with my code.**
+- ⚡ About me **I am an undergraduate student. I'm here to share my learning and expirences with all of you. I hope you all will help me with my code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
