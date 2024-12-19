@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat09867" alt="akshat09867" /></a> </p>
 
-- 📫 How to reach me **akshatmaurya9451504@gmail.com**
+- 📫 How to reach me **([Email](akshatmaurya9451504@gmail.com))**
 
 - 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1xYg-FqkJjPzh22pn9fIYuxrFEhs8wa1a/view?usp=sharing))
 
