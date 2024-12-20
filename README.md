@@ -1,4 +1,4 @@
-<div style="background-color: grey; padding: 20px;">
+<div style="background-color: white; padding: 20px;">
 
 <h1 align="center">Hi 👋, I'm Akshat Maurya</h1>
 <h3 align="center">A full-stack developer passionate about learning new things and growing through them.</h3>
