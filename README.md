@@ -1,8 +1,7 @@
-
 <div style="background-color: grey; padding: 20px;">
+
 <h1 align="center">Hi 👋, I'm Akshat Maurya</h1>
 <h3 align="center">A full-stack developer passionate about learning new things and growing through them.</h3>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat09867" alt="akshat09867" /></a> </p>
 
@@ -21,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat09867&show_icons=true&locale=en&layout=compact" alt="akshat09867" /></p>
 
-
+</div>
