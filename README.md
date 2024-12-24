@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">I'm Akshat Maurya</h2>
+<h2 align="center">I'm Akshat Maurya</h2>
 
 ###
 
