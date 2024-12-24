@@ -1,10 +1,8 @@
 
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm Akshat Maurya</h1>
 
-###
 
-<h2 align="center">I'm Akshat Maurya</h2>
 
 ###
 
