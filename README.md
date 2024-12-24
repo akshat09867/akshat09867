@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">✨ I am an undergraduate student pursuing my btech(cse) from Jawaharlal Nehru University. I'm here to share my learning journey and experiences with all of you!<br>📚 Currently diving deep into Machine Learning and Artificial Intelligence, exploring tools like TensorFlow and NumPy.<br>🎲 Fun fact: ...I hope you all will help me with my code.(it sometimes gets weird (or maybe more often than not)). 😄</h3>
+<h3 align="left">✨ I am an undergraduate student pursuing my btech(cse) from Jawaharlal Nehru University. I'm here to share my learning journey and experiences with all of you!<br><br>📚 Currently diving deep into Machine Learning and Artificial Intelligence, exploring tools like TensorFlow and NumPy.<br><br>🎲 Fun fact: ...I hope you all will help me with my code.(it sometimes gets weird (or maybe more often than not)). 😄</h3>
 
 - 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1xYg-FqkJjPzh22pn9fIYuxrFEhs8wa1a/view?usp=sharing))
 ###
