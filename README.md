@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 ✨ I am an undergraduate student pursuing my btech(cse) from Jawaharlal Nehru University. I'm here to share my learning journey and experiences with all of you!<br><br>📚 Currently diving deep into Machine Learning and Artificial Intelligence, exploring both supervised and unsupervised learning techniques.<br><br> PS: ...I hope you all will help me with my code.(it sometimes gets weird (or maybe more often than not)). <br>
-- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/13BX8oB2EmPcaYqDBba8iVjawzW-Rdxvz/view?usp=sharing))
+- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1ZKCfuGScxC5OD-kzXGAIMGYTOc3dfC2d/view?usp=sharing))
 ###
 <br>
 
